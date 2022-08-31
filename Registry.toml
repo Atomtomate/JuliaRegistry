@@ -4,3 +4,4 @@ repo = "https://github.com/Atomtomate/JuliaRegistry"
 description = "Private JulaRegistry"
 
 [packages]
+d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
