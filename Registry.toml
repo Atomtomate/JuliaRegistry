@@ -4,4 +4,5 @@ repo = "https://github.com/Atomtomate/JuliaRegistry"
 description = "Private JulaRegistry"
 
 [packages]
+b0d053df-94a8-4c0c-9762-4584a2fcd8b0 = { name = "EquivalenceClassesConstructor", path = "E/EquivalenceClassesConstructor" }
 d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
