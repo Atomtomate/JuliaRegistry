@@ -1,7 +1,7 @@
 name = "JuliaRegistry"
 uuid = "84c61fbd-64a4-4993-a634-90f682c6af21"
 repo = "https://github.com/Atomtomate/JuliaRegistry"
-description = "Private JulaRegistry"
+description = "Atomtomate's JuliaRegistry"
 
 [packages]
 b0d053df-94a8-4c0c-9762-4584a2fcd8b0 = { name = "EquivalenceClassesConstructor", path = "E/EquivalenceClassesConstructor" }
