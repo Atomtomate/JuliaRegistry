@@ -6,6 +6,7 @@ description = "Atomtomate's JuliaRegistry"
 [packages]
 302c5ee5-f6a5-4ccb-887c-986379ff7ea6 = { name = "MFDecoupling", path = "M/MFDecoupling" }
 646ec391-26e4-4808-a965-02314d3a2269 = { name = "BSE_Asymptotics", path = "B/BSE_Asymptotics" }
+78e40beb-bf89-4c0e-9d2b-bee278912f2b = { name = "LadderDGA", path = "L/LadderDGA" }
 9451dd48-6b2a-4bde-a443-9ec270a37806 = { name = "Dispersions", path = "D/Dispersions" }
 97545629-2858-4d6a-8329-5c595e37ec1c = { name = "jED", path = "J/jED" }
 b0d053df-94a8-4c0c-9762-4584a2fcd8b0 = { name = "EquivalenceClassesConstructor", path = "E/EquivalenceClassesConstructor" }
