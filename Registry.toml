@@ -4,5 +4,6 @@ repo = "https://github.com/Atomtomate/JuliaRegistry"
 description = "Atomtomate's JuliaRegistry"
 
 [packages]
+302c5ee5-f6a5-4ccb-887c-986379ff7ea6 = { name = "MFDecoupling", path = "M/MFDecoupling" }
 646ec391-26e4-4808-a965-02314d3a2269 = { name = "BSE_Asymptotics", path = "B/BSE_Asymptotics" }
 97545629-2858-4d6a-8329-5c595e37ec1c = { name = "jED", path = "J/jED" }
