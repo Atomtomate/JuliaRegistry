@@ -4,7 +4,6 @@ repo = "https://github.com/Atomtomate/JuliaRegistry"
 description = "Atomtomate's JuliaRegistry"
 
 [packages]
-646ec391-26e4-4808-a965-02314d3a2269 = { name = "BSE_SC", path = "B/BSE_SC" }
 9451dd48-6b2a-4bde-a443-9ec270a37806 = { name = "Dispersions", path = "D/Dispersions" }
 97545629-2858-4d6a-8329-5c595e37ec1c = { name = "jED", path = "J/jED" }
 b0d053df-94a8-4c0c-9762-4584a2fcd8b0 = { name = "EquivalenceClassesConstructor", path = "E/EquivalenceClassesConstructor" }
