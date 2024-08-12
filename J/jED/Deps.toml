@@ -15,3 +15,8 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+
+["0.14-0"]
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+Memoization = "6fafb56a-5788-4b4e-91ca-c0cea6611c73"
+NLSolvers = "337daf1e-9722-11e9-073e-8b9effe078ba"
