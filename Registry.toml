@@ -4,6 +4,7 @@ repo = "https://github.com/Atomtomate/JuliaRegistry"
 description = "Atomtomate's JuliaRegistry"
 
 [packages]
+2a17635c-7d5f-4894-89fa-426d3bb0ba45 = { name = "MatsubaraFrequencies", path = "M/MatsubaraFrequencies" }
 302c5ee5-f6a5-4ccb-887c-986379ff7ea6 = { name = "MFDecoupling", path = "M/MFDecoupling" }
 646ec391-26e4-4808-a965-02314d3a2269 = { name = "BSE_Asymptotics", path = "B/BSE_Asymptotics" }
 78e40beb-bf89-4c0e-9d2b-bee278912f2b = { name = "LadderDGA", path = "L/LadderDGA" }
