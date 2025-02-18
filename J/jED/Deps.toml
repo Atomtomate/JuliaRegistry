@@ -1,8 +1,10 @@
 [0]
+EquivalenceClassesConstructor = "b0d053df-94a8-4c0c-9762-4584a2fcd8b0"
+
+["0 - 1"]
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 Dispersions = "9451dd48-6b2a-4bde-a443-9ec270a37806"
-EquivalenceClassesConstructor = "b0d053df-94a8-4c0c-9762-4584a2fcd8b0"
 GenericLinearAlgebra = "14197337-ba66-59df-a3e3-ca00e7dcff7a"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
@@ -16,7 +18,7 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 
-["0.14-0"]
+["0.14 - 1"]
 FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
 Memoization = "6fafb56a-5788-4b4e-91ca-c0cea6611c73"
 NLSolvers = "337daf1e-9722-11e9-073e-8b9effe078ba"
