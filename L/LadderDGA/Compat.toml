@@ -6,3 +6,6 @@ BSE_Asymptotics = "2.4.0 - 2"
 DataFrames = "1.7.0 - 1"
 Dispersions = "1.0.1 - 1"
 EquivalenceClassesConstructor = "0.5.5 - 0.5"
+
+["1.4.2 - 1"]
+JLD2 = "0.5.11 - 0.5"
