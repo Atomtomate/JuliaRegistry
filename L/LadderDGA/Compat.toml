@@ -12,6 +12,11 @@ Dispersions = "1.0.1 - 1"
 ["1.4.2 - 1"]
 JLD2 = "0.5.11 - 0.5"
 
+["1.7"]
+Dispersions = "1.1.1 - 1"
+
 ["1.7 - 1"]
 BSE_Asymptotics = "3.3.0 - 3"
-Dispersions = "1.1.1 - 1"
+
+["1.8 - 1"]
+Dispersions = "1.2.1 - 1"
